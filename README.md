@@ -10,4 +10,4 @@ See the difference?
 * Eagle
 * Thunderbolt II (Warthog)
 
-Git is easy. Git is fun. Thanks Linus!
+Git is easy. Git is fun. Thanks Linus!!!
