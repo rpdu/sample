@@ -9,3 +9,5 @@ See the difference?
 * Tomcat
 * Eagle
 * Thunderbolt II (Warthog)
+
+Git is easy. Git is fun. Thanks Linus!
